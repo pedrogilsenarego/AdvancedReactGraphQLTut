@@ -1,3 +1,1 @@
-const Index = () => <>Test</>;
-
-export default Index;
+export { default } from './products';

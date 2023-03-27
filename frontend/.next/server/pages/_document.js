@@ -89,14 +89,14 @@ module.exports = require("next/dist/next-server/server/utils.js");;
 
 /***/ }),
 
-/***/ "object-assign":
-/*!********************************!*\
-  !*** external "object-assign" ***!
-  \********************************/
+/***/ "prop-types":
+/*!*****************************!*\
+  !*** external "prop-types" ***!
+  \*****************************/
 /***/ (function(module) {
 
 "use strict";
-module.exports = require("object-assign");;
+module.exports = require("prop-types");;
 
 /***/ }),
 
@@ -108,17 +108,6 @@ module.exports = require("object-assign");;
 
 "use strict";
 module.exports = require("react");;
-
-/***/ }),
-
-/***/ "react-is":
-/*!***************************!*\
-  !*** external "react-is" ***!
-  \***************************/
-/***/ (function(module) {
-
-"use strict";
-module.exports = require("react-is");;
 
 /***/ }),
 
